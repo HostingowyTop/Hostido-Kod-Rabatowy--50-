@@ -1,6 +1,6 @@
 # 🎁 Hostido: -50% na hosting z kodem `HOSTING-50` + do 6 mies. za darmo
 
-Szukasz taniego i solidnego hostingu? Z kodem `HOSTING-50` otrzymasz **aż 50% zniżki na pierwszy rok** w Hostido. Dodatkowo – jeśli migrujesz z innej firmy – możesz zyskać nawet **6 miesięcy hostingu gratis**.
+Szukasz taniego i solidnego hostingu? Z kodem `HOSTING-50` otrzymasz **aż 50% zniżki na pierwszy rok** w [Hostido.pl](https://hostido.pl/polecam/HOSTING-50). Dodatkowo – jeśli migrujesz z innej firmy – możesz zyskać nawet **6 miesięcy hostingu gratis**.
 
 ---
 
@@ -11,7 +11,7 @@ Szukasz taniego i solidnego hostingu? Z kodem `HOSTING-50` otrzymasz **aż 50% z
 - **Dotyczy:** nowych kont hostingowych (plany NVMe + Wizytówka)
 - **Dodatkowo:** do 6 mies. hostingu za darmo przy migracji
 - **Ważność:** do odwołania
-- **Gdzie wpisać:** w koszyku, pole „Kod promocyjny”
+- **Gdzie wpisać:** w koszyku, pole „Kod promocyjny” w [Hostido](https://hostido.pl/polecam/HOSTING-50)
 
 ---
 
@@ -76,4 +76,4 @@ Kod `HOSTING-50` to atrakcyjna opcja dla każdego, kto chce **oszczędzić poło
 
 ---
 
-**👉 Aktywuj kod na [hostido.pl](https://hostido.pl) i ciesz się niższymi cenami już dziś!**
+**👉 Aktywuj kod na [hostido.pl](https://hostido.pl/polecam/HOSTING-50) i ciesz się niższymi cenami już dziś!**
